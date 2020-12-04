@@ -1,0 +1,1 @@
+module.exports = function() {emit( 1, { 'size': this.size, 'hash': this.hash, 'opcode_hash': this.opcode_hash, 'vex' : this.vex, 'id': this._id, 'sum': 1, 'score': -1.0, 'similarity': [] } );}

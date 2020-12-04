@@ -1,0 +1,9 @@
+.idea/
+res/*
+*.pyc
+*.pickle
+*.syms
+*.report
+*.analysis
+*.db
+desyl.conf
